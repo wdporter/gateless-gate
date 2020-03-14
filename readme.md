@@ -6,8 +6,8 @@ https://www.sacred-texts.com/bud/zen/mumonkan.htm
 
 The author is Chinese Ch’an master Wu-men Hui-hai (Mumon Ekai, 1183–1260).
 
-**English Translation**
-By late Zen master Katsuki Sekida (Two Zen Classics 26-137)
+**English Translation**  
+by late Zen master Katsuki Sekida (Two Zen Classics 26-137)
 
 ## Mumon’s Preface
 
@@ -37,7 +37,7 @@ You stride through the universe.
 A monk asked Joshu, “Has a dog the Buddha Nature?”.  
 Joshu answered, “Mu”.
 
-### ### Mumon’s Comment
+### Mumon’s Comment
 In order to master Zen, you must pass the barrier of the patriarchs. To attain this subtle realisation, you must completely cut off the way of thinking.  
 If you do not pass the barrier, and do not cut off the way of thinking, then you will be like a ghost clinging to the bushes and weeds.  
 Now, I want to ask you, what is the barrier of the patriarchs?  
@@ -59,7 +59,7 @@ Now, I want to ask you again, “How will you carry it out?”.
 Employ every ounce of your energy to work on this ‘Mu’.  
 If you hold on without interruption, behold: a single spark, and the holy candle is lit!
 
-### ### Mumon’s Verse
+### Mumon’s Verse
 
 The dog, the Buddha Nature,  
 The pronouncement, perfect and final.  
@@ -93,13 +93,13 @@ Hyakujo said, “You come here to me, and I will tell you”.
 Obaku went up to Hyakujo and boxed his ears.  
 Hyakujo clapped his hands with a laugh and exclaimed, “I was thinking that the barbarian had a red beard, but now I see before me the red-bearded barbarian himself”.
 
-### ### Mumon’s Comment
+### Mumon’s Comment
 
 Not falling under causation: how could this make the monk a fox?  
 Not ignoring causation: how could this make the old man emancipated?  
 If you come to understand this, you will realise how old Hyakujo would have enjoyed five hundred rebirths as a fox.
 
-### ### Mumon’s Verse
+### Mumon’s Verse
 
 Not falling, not ignoring:  
 Two faces of one die.  
@@ -173,7 +173,7 @@ And devil’s eyes sprout from their bodies.
 When Shakyamuni Buddha was at Mount Grdhrakuta, he held out a flower to his listeners.  
 Everyone was silent.  
 Only Mahakashyapa broke into a broad smile.  
-The Buddha said, “I have the True Dharma Eye, the Marvelous Mind of Nirvana, the True Form of the Formless, and the Subtle Dharma Gate, independent of words and transmitted beyond doctrine. This I have entrusted to Mahakashyapa”.
+The Buddha said, “I have the True *Dharma* Eye, the Marvelous Mind of Nirvana, the True Form of the Formless, and the Subtle *Dharma* Gate, independent of words and transmitted beyond doctrine. This I have entrusted to Mahakashyapa”.
 
 ### Mumon’s Comment
 
@@ -182,7 +182,7 @@ He made the good look bad and sold dog’s meat labeled as mutton.
 He himself thought it was wonderful.  
 If, however, everyone in the audience had laughed, how could he have transmitted his True Eye?  
 And again, if Mahakashyapa had not smiled, how could the Buddha have transmitted it?  
-If you say the True Dharma Eye can be transmitted, then the golden-faced old man would be a city slicker who cheats the country bumpkin.  
+If you say the True *Dharma* Eye can be transmitted, then the golden-faced old man would be a city slicker who cheats the country bumpkin.  
 If you say it cannot be transmitted, then why did the Buddha approve of Mahakashyapa?
 
 ### Mumon’s Verse
@@ -192,93 +192,42 @@ The Buddha betrayed his curly tail.
 Heaven and earth were bewildered,  
 At Mahakashyapa’s smile.
 
- 
+## Case 7 Joshu’s “Wash Your Bowl”
 
-Case 7 Joshu’s "Wash Your Bowl"                      七　趙州洗鉢
-
- 
-
-趙州、因僧問、其甲乍入叢林。
-
-A monk said to Joshu, "I have just entered this monastery.
-
-乞師指示。
-
-Please teach me."
-
-州云、喫粥了也未。
-
-"Have you eaten your rice porridge?" asked Joshu.
-
-僧云、喫粥了也。
-
-"Yes, I have," replied the monk.
-
-州云、洗鉢盂去。
-
-"Then you had better wash your bowl," said Joshu.
-
-其僧有省。
-
+A monk said to Joshu, “I have just entered this monastery.  
+Please teach me”.  
+“Have you eaten your rice porridge?”, asked Joshu.  
+“Yes, I have”, replied the monk.  
+“Then you had better wash your bowl”, said Joshu.  
 With this the monk gained insight.
-
- 
 
 ### Mumon’s Comment
 
-無門曰、趙州開口見膽、露出心肝。
-
-When he opens his mouth, Joshu shows his gallbladder. He displays his heart and liver.
-
-者僧聽事不眞、喚鐘作甕。
-
+When he opens his mouth, Joshu shows his gallbladder. He displays his heart and liver.  
 I wonder if this monk really did hear the truth. I hope he did not mistake the bell for a jar.
-
- 
 
 ### Mumon’s Verse
 
-只爲分明極 Endeavoring to interpret clearly,
+Endeavouring to interpret clearly,  
+You retard your attainment.  
+Don’t you know that flame is fire?  
+Your rice has long been cooked.
 
-翻令所得遲 You retard your attainment.
+## Case 8 Keichu the Wheelmaker
 
-早知燈是火 Don’t you know that flame is fire?
-
-飯熟已多時 Your rice has long been cooked.
-
- 
-
-Case 8 Keichû the Wheelmaker               八　奚仲造車
-
- 
-
-月庵和尚問僧、奚仲造車一百輻。
-
-Gettan Osho said, "Keichû, the first wheelmaker, made a cart whose wheels had a hundred spokes.
-
-拈却兩頭、去却輻、明甚麼邊事。
-
-Now, suppose you took a cart and removed both the wheels and the axle. What would you have?"
-
- 
+Gettan Osho said, “Keichu, the first wheelmaker, made a cart whose wheels had a hundred spokes.  
+Now, suppose you took a cart and removed both the wheels and the axle. What would you have?”.
 
 ### Mumon’s Comment
-
-無門曰、若也直下明得、眼、似流星、機、如掣電。
 
 If anyone can directly master this topic, his eye will be like a shooting star, his spirit like a flash of lightning.
 
- 
-
 ### Mumon’s Verse
 
-機輪轉處      When the spiritual wheels turn,
-
-達者猶迷      Even the master fails to follow them.
-
-四維上下      They travel in all directions, above and below,
-
-南北東西      North, south, east, and west.
+When the spiritual wheels turn,  
+Even the master fails to follow them.  
+They travel in all directions, above and below,  
+North, south, east, and west.
 
  
 
@@ -288,19 +237,19 @@ Case 9 Daitsû Chishõ Buddha                  九　大通智勝
 
 興陽讓和尚、因僧問、大通智勝佛、十劫坐道場、佛法不現前、不得成佛道時如何。
 
-A monk asked Kõyõ Seijõ, "Daitsû Chishõ Buddha sat in zazen for ten kalpas and could not attain Buddhahood. He did not become a Buddha. How could this be?"
+A monk asked Kõyõ Seijõ, “Daitsû Chishõ Buddha sat in zazen for ten kalpas and could not attain Buddhahood. He did not become a Buddha. How could this be?“
 
 讓曰、其問甚諦當。
 
-Seijõ said, "Your question is quite self-explanatory."
+Seijõ said, “Your question is quite self-explanatory.“
 
 僧云、既是坐道場、爲甚麼不得成佛道。
 
-The monk asked, "He meditated so long; why could he not attain Buddhahood?"
+The monk asked, “He meditated so long; why could he not attain Buddhahood?“
 
 讓曰、爲伊不成佛。
 
-Seijõ said, "Because he did not become a Buddha."
+Seijõ said, “Because he did not become a Buddha.“
 
  
 
@@ -338,23 +287,23 @@ Case 10 Seizei Is Utterly Destitude                     十　清税弧貧
 
 曹山和尚、因僧問云、清税弧貧。
 
-Seizei said to Sõzan, "Seizei is utterly destitude.
+Seizei said to Sõzan, “Seizei is utterly destitude.
 
 乞、師賑濟。
 
-Will you give him support?"
+Will you give him support?“
 
 山云、税闍梨。
 
-Sõzan called out, "Seizei!"
+Sõzan called out, “Seizei!“
 
 税、應諾。
 
-Seizei responded, "Yes, sir!"
+Seizei responded, “Yes, sir!“
 
 山曰、青原白家酒、三盞喫了、猶道未沾唇。
 
-Sõzan said, "You have finished three cups of the finest wine in China, and still you say you have not yet moistened your lips!"
+Sõzan said, “You have finished three cups of the finest wine in China, and still you say you have not yet moistened your lips!“
 
  
 
@@ -392,7 +341,7 @@ Case 11 Joshu Sees the Hermits              十一　州勘庵主
 
 趙州、到一庵主處問、有麼有麼。
 
-Joshu went to a hermit’s cottage and asked, "Is the master in? Is the master in?"
+Joshu went to a hermit’s cottage and asked, “Is the master in? Is the master in?“
 
 主、堅起拳頭。
 
@@ -400,11 +349,11 @@ The hermit raised his fist.
 
 州云、水淺不是泊舡處。 便行。
 
-Joshu said, "The water is too shallow to anchor here," and he went away.
+Joshu said, “The water is too shallow to anchor here,“ and he went away.
 
 又到一庵主處云、有麼有麼。
 
-Coming to another hermit’s cottage, he asked again, "Is the master in? Is the master in?"
+Coming to another hermit’s cottage, he asked again, “Is the master in? Is the master in?“
 
 主亦堅起拳頭。
 
@@ -412,7 +361,7 @@ This hermit, too, raised his fist.
 
 州云、能縱能奪、能殺能活。便作禮。
 
-Joshu said, "Free to give, free to take, free to kill, free to save," and he made a deep bow.
+Joshu said, “Free to give, free to take, free to kill, free to save,“ and he made a deep bow.
 
  
 
@@ -462,15 +411,15 @@ Case 12 Zuigan Calls His Master                         十二　巖喚主人
 
 瑞巖彦和尚、毎日自喚主人公、復自應諾。
 
-Zuigan Gen Osho called to himself every day, "Master!" and answered, "Yes, sir!"
+Zuigan Gen Osho called to himself every day, “Master!“ and answered, “Yes, sir!“
 
 乃云、惺惺着。□。
 
-Then he would say, "Be wide awake!" and answer, "Yes, sir!"
+Then he would say, “Be wide awake!“ and answer, “Yes, sir!“
 
 他時異日、莫受人瞞。□□。
 
-"Henceforward, never be deceived by others!" "No, I won’t!"
+“Henceforward, never be deceived by others!“ “No, I won’t!“
 
  
 
@@ -520,15 +469,15 @@ One day Tokusan went down toward the dining room, holding his bowls.
 
 見雪峰問者老漢鐘未鳴鼓未響、托鉢向甚處去、山便回方丈。
 
-Seppõ met him and asked, "Where are you off to with your bowls? The bell has not rung, and the drum has not sounded." Tokusan turned and went back to his room.
+Seppõ met him and asked, “Where are you off to with your bowls? The bell has not rung, and the drum has not sounded.“ Tokusan turned and went back to his room.
 
 峰擧似巖頭。 頭云、大小徳山未會末後句。
 
-Seppõ mentioned this to Gantõ, who remarked, "Tokusan is renowned, but he does not know the last word."
+Seppõ mentioned this to Gantõ, who remarked, “Tokusan is renowned, but he does not know the last word.“
 
 山聞令侍者喚巖頭來、問曰、汝不肯老僧那。
 
-Tokusan heard about this remark and sent his attendant to fetch Gantõ. "You do not approve of me?" he asked.
+Tokusan heard about this remark and sent his attendant to fetch Gantõ. “You do not approve of me?“ he asked.
 
 巖頭密啓其意。
 
@@ -540,11 +489,11 @@ Tokusan said nothing at the time, but the next day he ascended the rostrum, and 
 
 巖頭至僧堂前、拊掌大笑云、且喜得老漢會末後句。
 
-Gantõ, going toward the front of the hall, clapped his hands and laughed loudly, saying, "Congratulations! Our old man has got hold of the last word!
+Gantõ, going toward the front of the hall, clapped his hands and laughed loudly, saying, “Congratulations! Our old man has got hold of the last word!
 
 他後天下人、不奈伊何。
 
-From now on, nobody in this whole country can outdo him!"
+From now on, nobody in this whole country can outdo him!“
 
  
 
@@ -582,7 +531,7 @@ Nansen Osho saw monks of the Eastern and Western halls quarreling over a cat.
 
 泉乃提起云、大衆道得即救、道不得即斬却也。
 
-He held up the cat and said, "If you can give an answer, you will save the cat. If not, I will kill it."
+He held up the cat and said, “If you can give an answer, you will save the cat. If not, I will kill it.“
 
 衆無對。泉遂斬之。
 
@@ -598,7 +547,7 @@ Joshu took off his sandal, placed it on his head, and walked out.
 
 泉云、子若在即救得猫兒。
 
-"If you had been there, you would have saved the cat," Nansen remarked.
+“If you had been there, you would have saved the cat,“ Nansen remarked.
 
  
 
@@ -614,7 +563,7 @@ If you can give a turning word on this, you will see that Nansen’s decree was 
 
 其或未然險。
 
-If not, "Danger!"
+If not, “Danger!“
 
  
 
@@ -636,45 +585,45 @@ Case 15 Tõzan’s Sixty Blows                    十五　洞山三頓
 
 雲門、因洞山參次、門問曰、近離甚處。
 
-Tõzan came to study with Unmon. Unmon asked, "Where are you from?"
+Tõzan came to study with Unmon. Unmon asked, “Where are you from?“
 
 山云、査渡。
 
-"From Sato," Tõzan replied.
+“From Sato,“ Tõzan replied.
 
 門曰、夏在甚處。
 
-"Where were you during the summer?"
+“Where were you during the summer?“
 
 山云、湖南報慈。
 
-"Well, I was at the monastery of Hõzu, south of the lake."
+“Well, I was at the monastery of Hõzu, south of the lake.“
 
 門曰、幾時離彼。
 
-"When did you leave there," Unmon asked.
+“When did you leave there,“ Unmon asked.
 
 山云、八月二十五。
 
-"On August 25" was Tõzan’s reply.
+“On August 25“ was Tõzan’s reply.
 
 門曰、放汝三頓棒。
 
-"I spare you sixty blows," Unmon said.
+“I spare you sixty blows,“ Unmon said.
 
 山至明日却上問訊。
 
 昨日蒙和尚放三頓棒。
 
-The next day Tõzan came to Unmon and said, "Yesterday you said you spared me sixty blows.
+The next day Tõzan came to Unmon and said, “Yesterday you said you spared me sixty blows.
 
 不知過在甚麼處。
 
-I beg to ask you, where was I at fault?"
+I beg to ask you, where was I at fault?“
 
 門曰、飯袋子、江西湖南便恁麼去。
 
-"Oh, you rice bag!" shouted Unmon. "What makes you wander about, now west of the river, now south of the lake?"
+“Oh, you rice bag!“ shouted Unmon. “What makes you wander about, now west of the river, now south of the lake?“
 
 山於此大悟。
 
@@ -732,11 +681,11 @@ Case 16 When the Bell Sounds                十六　鐘聲七條
 
 雲門曰、世界恁麼廣闊。
 
-Unmon said, "The world is vast and wide.
+Unmon said, “The world is vast and wide.
 
 因甚向鐘聲裏披七條。
 
-Why do you put on your seven-piece robe at the sound of the bell?"
+Why do you put on your seven-piece robe at the sound of the bell?“
 
  
 
@@ -790,7 +739,7 @@ The National Teacher called his attendant three times, and three times the atten
 
 國師云、將謂吾辜負汝、元來却是汝辜負吾。
 
-The National Teacher said, "I long feared that I was betraying you, but really it was you who were betraying me."
+The National Teacher said, “I long feared that I was betraying you, but really it was you who were betraying me.“
 
  
 
@@ -834,17 +783,17 @@ When the country is flourishing, talent is prized. When the home is wealthy, the
 
  
 
-Case 18 Tõzan’s "Masagin"                        十八　洞山三斤
+Case 18 Tõzan’s “Masagin“                        十八　洞山三斤
 
  
 
 洞山和尚、因僧問、如何是佛。
 
-A monk asked Tõzan, "What is Buddha?"
+A monk asked Tõzan, “What is Buddha?“
 
 山云、麻三斤。
 
-Tõzan replied, "Masagin!" [three pounds of flax].
+Tõzan replied, “Masagin!“ [three pounds of flax].
 
  
 
@@ -862,7 +811,7 @@ But tell me, how do you see Tõzan?
 
 ### Mumon’s Verse
 
-突出麻三斤 "Three pounds of flax" came sweeping along;
+突出麻三斤 “Three pounds of flax“ came sweeping along;
 
 言親意更親 Close were the words, but closer was the meaning.
 
@@ -872,33 +821,33 @@ But tell me, how do you see Tõzan?
 
  
 
-Case 19 Nansen’s "Ordinary Mind Is the Way"                          十九　平常是道
+Case 19 Nansen’s “Ordinary Mind Is the Way“                          十九　平常是道
 
  
 
 南泉、因趙州問、如何是道。
 
-Joshu asked Nansen, "What is the Way?"
+Joshu asked Nansen, “What is the Way?“
 
 泉云、平常心是道。
 
-"Ordinary mind is the Way," Nansen replied.
+“Ordinary mind is the Way,“ Nansen replied.
 
 州云、還可趣向否。
 
-"Shall I try to seek after it?" Joshu asked.
+“Shall I try to seek after it?“ Joshu asked.
 
 泉云、擬向即乖。
 
-"If you try for it, you will become separated from it," responded Nansen.
+“If you try for it, you will become separated from it,“ responded Nansen.
 
 州云、不擬爭知是道。
 
-"How can I know the Way unless I try for it?" persisted Joshu.
+“How can I know the Way unless I try for it?“ persisted Joshu.
 
 泉云、道不屬知、不屬不知。
 
-Nansen said, "The Way is not a matter of knowing or not knowing.
+Nansen said, “The Way is not a matter of knowing or not knowing.
 
 知是妄覺、不知是無記。
 
@@ -910,7 +859,7 @@ When you have really reached the true Way beyond doubt, you will find it as vast
 
 豈可強是非也。
 
-How can it be talked about on the level of right and wrong?"
+How can it be talked about on the level of right and wrong?“
 
 州於言下頓悟。
 
@@ -948,11 +897,11 @@ Case 20 The Man of Great Strength                    二十　大力量人
 
 松源和尚云、大力量人、因甚擡脚不起。
 
-Shõgen Osho asked, "Why is it that a man of great strength does not lift his legs?"
+Shõgen Osho asked, “Why is it that a man of great strength does not lift his legs?“
 
 又云、開口不在舌頭上。
 
-And he also said, "It is not the tongue he speaks with."
+And he also said, “It is not the tongue he speaks with.“
 
  
 
@@ -992,17 +941,17 @@ If you want to find pure gold, you must see it through fire.
 
  
 
-Case 21 Unmon’s "Kanshiketsu"                          二十一　雲門屎橛
+Case 21 Unmon’s “Kanshiketsu“                          二十一　雲門屎橛
 
  
 
 雲門、因僧問、如何是佛。
 
-A monk asked Unmon, "What is Buddha?"
+A monk asked Unmon, “What is Buddha?“
 
 門云、乾屎橛。
 
-Unmon replied, "Kanshiketsu!" [A dry shit-stick.]
+Unmon replied, “Kanshiketsu!“ [A dry shit-stick.]
 
  
 
@@ -1034,25 +983,25 @@ The decline of Buddhism was thus foreshadowed.
 
  
 
-Case 22 Kashyapa’s "Knock Down the Flagpole"                    二十二　迦葉刹竿
+Case 22 Kashyapa’s “Knock Down the Flagpole“                    二十二　迦葉刹竿
 
  
 
 迦葉、因阿難問云、世尊傳金襴袈裟外、別傳何物。
 
-Ananda asked Kashyapa, "The World-honored One gave you the golden robe; did he give you anything else?"
+Ananda asked Kashyapa, “The World-honored One gave you the golden robe; did he give you anything else?“
 
 葉喚云、阿難。
 
-"Ananda!" cried Kashyapa.
+“Ananda!“ cried Kashyapa.
 
 難、應諾。
 
-"Yes, sir!" answered Ananda.
+“Yes, sir!“ answered Ananda.
 
 葉云、倒却門前刹竿著。
 
-"Knock down the flagpole at the gate," said Kashyapa.
+“Knock down the flagpole at the gate,“ said Kashyapa.
 
  
 
@@ -1090,19 +1039,19 @@ The Sixth Patriarch was pursued by the monk Myõ as far as Taiyu Mountain.
 
 祖見明至、即擲衣鉢於石上云、此衣表信。 可力爭耶、任君將去。
 
-The patriarch, seeing Myõ coming, laid the robe and bowl on a rock and said, "This robe represents the faith; it should not be fought over. If you want to take it away, take it now."
+The patriarch, seeing Myõ coming, laid the robe and bowl on a rock and said, “This robe represents the faith; it should not be fought over. If you want to take it away, take it now.“
 
 明遂擧之如山不動、踟□悚慄。 明白、我來　求法、非爲衣也。
 
-Myõ tried to move it, but it was as heavy as a mountain and would not budge. Faltering and trembling, he cried out, "I came for the Dharma, not for the robe.
+Myõ tried to move it, but it was as heavy as a mountain and would not budge. Faltering and trembling, he cried out, “I came for the Dharma, not for the robe.
 
 願行者開示。
 
-I beg you, please give me your instruction."
+I beg you, please give me your instruction.“
 
 祖云、不思善、不思惡、正與麼時、那箇是明上座本來面目。
 
-The patriarch said, "Think neither good nor evil. At this very moment, what is the original self of the monk Myõ?"
+The patriarch said, “Think neither good nor evil. At this very moment, what is the original self of the monk Myõ?“
 
 明當下大悟、遍體汗流。
 
@@ -1110,19 +1059,19 @@ At these words, Myõ was directly illuminated. His whole body was covered with s
 
 泣涙作禮、問曰、上來密語密意外、還更　有意旨否。
 
-He wept and bowed, saying, "Besides the secret words and the secret meaning you have just now revealed to me, is there anything else, deeper still?"
+He wept and bowed, saying, “Besides the secret words and the secret meaning you have just now revealed to me, is there anything else, deeper still?“
 
 祖曰、我今爲汝説者、即非密也。
 
-The patriarch said, "What I have told you is no secret at all.
+The patriarch said, “What I have told you is no secret at all.
 
 汝若返照自己面目、密却在汝邊。
 
-When you look into your own true self, whatever is deeper is found right there."
+When you look into your own true self, whatever is deeper is found right there.“
 
 明云、其申雖在黄梅隨衆、實未省自己面目。
 
-Myõ said, "I was with the monks under Õbai for many years but I could not realise my true self.
+Myõ said, “I was with the monks under Õbai for many years but I could not realise my true self.
 
 今蒙指授入處、如人飲水冷暖自知。
 
@@ -1130,15 +1079,15 @@ But now, receiving your instruction, I know it is like a man drinking water and 
 
 今行者即是某甲師也。
 
-My lay brother, you are now my teacher."
+My lay brother, you are now my teacher.“
 
 祖云、汝若如是則吾與汝同師黄梅。
 
-The patriarch said, "If you say so, but let us both call Õbai our teacher.
+The patriarch said, “If you say so, but let us both call Õbai our teacher.
 
 善自護持。
 
-Be mindful to treasure and hold fast to what you have attained."
+Be mindful to treasure and hold fast to what you have attained.“
 
  
 
@@ -1172,17 +1121,17 @@ Case 24 Fuketsu’s Speech and Silence               二十四　離却語言
 
 風穴和尚、因僧問、語默渉離微、如何通不犯。
 
-A monk asked Fuketsu, "Both speech and silence are faulty in being ri [離 inward action of mind] or bi [微 outward action of mind]. How can we escape these faults?"
+A monk asked Fuketsu, “Both speech and silence are faulty in being ri [離 inward action of mind] or bi [微 outward action of mind]. How can we escape these faults?“
 
 穴云、長憶江南三月裏、鷓鴣啼處百花香。
 
 Fuketsu said,
 
-              "I always remember the spring in Kõnan,
+              “I always remember the spring in Kõnan,
 
               Where the partridges sing;
 
-              How fragrant the countless flowers!"
+              How fragrant the countless flowers!“
 
  
 
@@ -1228,15 +1177,15 @@ In a dream Kyõzan Osho went to Maitreya’s place and was led in to sit in the 
 
 有一尊者、白槌云、今日當第三座説法。
 
-A senior monk struck with a gavel and said, "Today the one in the third seat will speak."
+A senior monk struck with a gavel and said, “Today the one in the third seat will speak.“
 
 山乃起白槌云、摩訶衍法離四句、絶百非。
 
-Kyõzan rose and, striking with the gavel, said, "The truth of Mahayana is beyond the four propositions and transcends the hundred negations.
+Kyõzan rose and, striking with the gavel, said, “The truth of Mahayana is beyond the four propositions and transcends the hundred negations.
 
 諦聽、諦聽。
 
-Taichõ! Taichõ!" [Hear the truth!]
+Taichõ! Taichõ!“ [Hear the truth!]
 
  
 
@@ -1278,7 +1227,7 @@ Two monks simultaneously went and rolled them up.
 
 眼曰、一得一失。
 
-Hõgen said, "One gain, one loss."
+Hõgen said, “One gain, one loss.“
 
  
 
@@ -1310,25 +1259,25 @@ However, I warn you strongly against discussing gain and loss.
 
  
 
-Case 27 Nansen’s "Not Mind, Not Buddha, Not Things"                   二十七　不是心佛
+Case 27 Nansen’s “Not Mind, Not Buddha, Not Things“                   二十七　不是心佛
 
  
 
 南泉和尚、因僧問云、還有不與人説底法麼。
 
-A monk asked Nansen, "Is there any Dharma that has not been preached to the people?"
+A monk asked Nansen, “Is there any Dharma that has not been preached to the people?“
 
 泉云、有。
 
-Nansen answered, "There is."
+Nansen answered, “There is.“
 
 僧云、如何是不與人説底法。
 
-"What is the truth that has not been taught?" asked the monk.
+“What is the truth that has not been taught?“ asked the monk.
 
 泉云、不是心、不是佛、不是物。
 
-Nansen said, "It is not mind; it is not Buddha; it is not things."
+Nansen said, “It is not mind; it is not Buddha; it is not things.“
 
  
 
@@ -1362,15 +1311,15 @@ Tokusan asked Ryûtan about Zen far into the night.
 
 潭云、夜深。
 
-At last Ryûtan said, "The night is late.
+At last Ryûtan said, “The night is late.
 
 子何不下去。
 
-Why don’t you retire?"
+Why don’t you retire?“
 
 山遂珍重掲簾而出。 見外面黒却回云、外面黒。
 
-Tokusan made his bows and lifted the blinds to withdraw, but he was met by darkness. Turning back to Ryûtan, he said, "It is dark outside."
+Tokusan made his bows and lifted the blinds to withdraw, but he was met by darkness. Turning back to Ryûtan, he said, “It is dark outside.“
 
 潭乃點紙燭度與。
 
@@ -1386,15 +1335,15 @@ At this, all of a sudden, Tokusan went through a deep experience and made bows.
 
 潭云、子見箇甚麼道理。
 
-Ryûtan said, "What sort of realization do you have?"
+Ryûtan said, “What sort of realization do you have?“
 
 山云、某甲從今日去不疑天下老和尚舌頭也。
 
-"From now on," said Tokusan, "I will not doubt the words of an old Osho who is renowned everywhere under the sun."
+“From now on,“ said Tokusan, “I will not doubt the words of an old Osho who is renowned everywhere under the sun.“
 
 至明日、龍潭陞堂云、可中有箇漢、牙如劍樹、口似血盆。
 
-The next day Ryûtan ascended the rostrum and said, "I see a fellow among you. His fangs are like the sword tree. His mouth is like a blood bowl.
+The next day Ryûtan ascended the rostrum and said, “I see a fellow among you. His fangs are like the sword tree. His mouth is like a blood bowl.
 
 一棒打不回頭。
 
@@ -1402,11 +1351,11 @@ Strike him with a stick, and he won’t turn his head to look at you.
 
 他時異日、向孤峰頂上立君道在。
 
-Someday or other, he will climb the highest of the peaks and establish our Way there."
+Someday or other, he will climb the highest of the peaks and establish our Way there.“
 
 山遂取疏抄於法堂前、將一炬火提起云、窮諸玄辨、若一毫致於太虚、竭世樞機似一滴投於巨壑。
 
-Tokusan brought his notes on the Diamond Sutra to the front of the hall, pointed to them with a torch, and said, "Even though you have exhausted the abtruse doctrines, it is like placing a hair in a vast space. Even though you have learned all the secrets of the world, it is like a drop of water dripped on the great ocean."
+Tokusan brought his notes on the Diamond Sutra to the front of the hall, pointed to them with a torch, and said, “Even though you have exhausted the abtruse doctrines, it is like placing a hair in a vast space. Even though you have learned all the secrets of the world, it is like a drop of water dripped on the great ocean.“
 
 將疏抄便燒。
 
@@ -1426,23 +1375,23 @@ Before Tokusan crossed the barrier from his native place, his mind burned and hi
 
 及到澧州路上問婆子買點心。
 
-When he reached the road to Reishû, he asked an old woman to let him have lunch to "refresh the mind."
+When he reached the road to Reishû, he asked an old woman to let him have lunch to “refresh the mind.“
 
 婆云、大徳車子内是甚麼文字。
 
-"Your worship, what sort of literature do you carry in your pack?" the old woman asked.
+“Your worship, what sort of literature do you carry in your pack?“ the old woman asked.
 
 山云、金剛經疏抄。
 
-"Commentaries on the Diamond Sutra," replied Tokusan.
+“Commentaries on the Diamond Sutra,“ replied Tokusan.
 
 婆云、只如經中道、過去心不可得、見在心不可得、未來心不可得。
 
-The old woman said, "I hear it is said in that sutra, ’The past mind cannot be held, the present mind cannot be held, the future mind cannot be held.’
+The old woman said, “I hear it is said in that sutra, ’The past mind cannot be held, the present mind cannot be held, the future mind cannot be held.’
 
 大徳、要點那箇心。
 
-Now, I would like to ask you, what mind are you going to have refreshed?"
+Now, I would like to ask you, what mind are you going to have refreshed?“
 
 徳山被者一問、直得口似□檐。
 
@@ -1450,11 +1399,11 @@ At this question Tokusan was dumbfounded.
 
 然雖如是、未肯向婆子句下死却。遂問婆子、近處有甚麼宗師。
 
-However, he did not remain inert under her words but asked, "Do you know of any good teacher around here?"
+However, he did not remain inert under her words but asked, “Do you know of any good teacher around here?“
 
 婆云、五里外有龍潭和尚。
 
-The old woman said, "Five miles from here you will find Ryûtan Osho."
+The old woman said, “Five miles from here you will find Ryûtan Osho.“
 
 及到龍潭納盡敗闕。
 
@@ -1490,7 +1439,7 @@ A little cool reflection tells us it was all a farce.
 
  
 
-Case 29 The Sixth Patriarch’s "Your Mind Moves"                 二十九　非風非幡
+Case 29 The Sixth Patriarch’s “Your Mind Moves“                 二十九　非風非幡
 
  
 
@@ -1508,7 +1457,7 @@ they argued back and forth but could not reach a conclusion.
 
 祖云、不是風動、不是幡動、仁者心動。
 
-The Sixth Patriarch said, "It is not the wind that moves, it is not the flag that moves; it is your mind that moves."
+The Sixth Patriarch said, “It is not the wind that moves, it is not the flag that moves; it is your mind that moves.“
 
 二僧悚然。
 
@@ -1544,17 +1493,17 @@ The patriarch could not withhold his compassion and courted disgrace.
 
  
 
-Case 30 Baso’s "This Very Mind Is the Buddha"                      三十　即心即佛
+Case 30 Baso’s “This Very Mind Is the Buddha“                      三十　即心即佛
 
  
 
 馬祖、因大梅問、如何是佛。
 
-Daibai asked Baso, "What is the Buddha?"
+Daibai asked Baso, “What is the Buddha?“
 
 祖云、即心是佛。
 
-Baso answered, "This very mind is the Buddha."
+Baso answered, “This very mind is the Buddha.“
 
  
 
@@ -1570,11 +1519,11 @@ However, alas! Daibai misled not a few people into taking the mark on the balanc
 
 爭知道説箇佛字、三日漱口。
 
-How could he realise that even mentioning the word "Buddha" should make us rinse out our mouths for three days?
+How could he realise that even mentioning the word “Buddha“ should make us rinse out our mouths for three days?
 
 若是箇漢、見説即心是佛、掩耳便走。
 
-If a man of understanding hears anyone say, "This very mind is the Buddha," he will cover his ears and rush away.
+If a man of understanding hears anyone say, “This very mind is the Buddha,“ he will cover his ears and rush away.
 
  
 
@@ -1584,7 +1533,7 @@ If a man of understanding hears anyone say, "This very mind is the Buddha," he w
 
 切忌尋覓      No more searching around!
 
-更問如何      "What is the Buddha?" you ask:
+更問如何      “What is the Buddha?“ you ask:
 
 抱贓叫屈      With loot in your pocket, you declare yourself innocent.
 
@@ -1596,15 +1545,15 @@ Case 31 Joshu Investigates an Old Woman                   三十一　趙州勘�
 
 趙州、因僧問婆子、臺山路向甚處去。
 
-A monk asked an old woman, "What is the way to Taisan?"
+A monk asked an old woman, “What is the way to Taisan?“
 
 婆云、驀直去。
 
-The old woman said, "Go straight on."
+The old woman said, “Go straight on.“
 
 僧纔行三五歩。 婆云、好箇師僧、又恁麼去。
 
-When the monk had proceeded a few steps, she said, "A good, respectable monk, but he too goes that way."
+When the monk had proceeded a few steps, she said, “A good, respectable monk, but he too goes that way.“
 
 後有僧擧似州。
 
@@ -1612,7 +1561,7 @@ Afterward someone told Joshu about this.
 
 州云、待我去與你勘過這婆子。
 
-Joshu said, "Wait a bit, I will go and investigate the old woman for you."
+Joshu said, “Wait a bit, I will go and investigate the old woman for you.“
 
 明日便去亦如是問。 婆亦如是答。
 
@@ -1620,7 +1569,7 @@ The next day he went and asked the same question, and the old woman gave the sam
 
 州歸謂衆曰、臺山婆子、我與□勘破了也。
 
-On returning, Joshu said to his disciples, "I have investigated the old woman of Taisan for you."
+On returning, Joshu said to his disciples, “I have investigated the old woman of Taisan for you.“
 
  
 
@@ -1662,7 +1611,7 @@ Case 32 A Non-Buddhist Philosopher Questions the Buddha                       �
 
 世尊、因外道問、不問有言、不問無言。
 
-A non-Buddhist philosopher said to the Buddha, "I do not ask for words; I don not ask for non-words."
+A non-Buddhist philosopher said to the Buddha, “I do not ask for words; I don not ask for non-words.“
 
 世尊據座。
 
@@ -1670,7 +1619,7 @@ The Buddha just sat there.
 
 外道贊歎云、世尊大慈大悲、開我迷雲令我得入。
 
-The philosopher said admiringly, "The World-honored One, with his great mercy, has blown away the clouds of my illusion and enabled me to enter the Way."
+The philosopher said admiringly, “The World-honored One, with his great mercy, has blown away the clouds of my illusion and enabled me to enter the Way.“
 
 乃具禮而去。
 
@@ -1678,11 +1627,11 @@ And after making bows, he took his leave.
 
 阿難尋問佛、外道有何所證贊歎而去。
 
-Then Ananda asked the Buddha, "What did he realise, to admire you so much?"
+Then Ananda asked the Buddha, “What did he realise, to admire you so much?“
 
 世尊云、如世良馬見鞭影而行。
 
-The World-honored One replied, "A fine horse runs even at the shadow of the whip."
+The World-honored One replied, “A fine horse runs even at the shadow of the whip.“
 
  
 
@@ -1706,17 +1655,17 @@ Ananda was the Buddha’s disciple, but his understanding was not equal to that 
 
  
 
-Case 33 Baso’s "No Mind, No Buddha"                         三十三　非心非佛
+Case 33 Baso’s “No Mind, No Buddha“                         三十三　非心非佛
 
  
 
 馬祖、因僧問、如何是佛。
 
-A monk asked Baso, "What is the Buddha?"
+A monk asked Baso, “What is the Buddha?“
 
 祖曰、非心非佛。
 
-Baso answered, "No mind, no Buddha."
+Baso answered, “No mind, no Buddha.“
 
  
 
@@ -1740,13 +1689,13 @@ If you understand this, you have finished studying Zen.
 
  
 
-Case 34 Nansen’s "Reason Is Not the Way"                  三十四　智不是道
+Case 34 Nansen’s “Reason Is Not the Way“                  三十四　智不是道
 
  
 
 南泉云、心不是佛、智不是道。
 
-Nansen said, "Mind is not the Buddha, reason is not the Way."
+Nansen said, “Mind is not the Buddha, reason is not the Way.“
 
  
 
@@ -1784,7 +1733,7 @@ Case 35 Seijõ’s Soul Separated                三十五　倩女離魂
 
 五祖問僧云、倩女離魂、那箇是眞底。
 
-Goso said to his monks, "Seijõ’s soul separated from her being. Which was the real Seijõ?"
+Goso said to his monks, “Seijõ’s soul separated from her being. Which was the real Seijõ?“
 
  
 
@@ -1826,7 +1775,7 @@ Case 36 When You Meet a Man of the Way                 三十六　路逢達道
 
 五祖曰、路逢達道人、不將語默對、且道、將甚麼對。
 
-Goso said, "When you meet a man of the Way on the path, do not meet him with words or in silence. Tell me, how will you meet him?"
+Goso said, “When you meet a man of the Way on the path, do not meet him with words or in silence. Tell me, how will you meet him?“
 
  
 
@@ -1860,11 +1809,11 @@ Case 37 Joshu’s Oak Tree                           三十七　庭前栢樹
 
 趙州、因僧問、如何是祖師西來意。
 
-A monk asked Joshu, "What is the meaning of Bodhidharma’s coming to China?"
+A monk asked Joshu, “What is the meaning of Bodhidharma’s coming to China?“
 
 州云、庭前栢樹子。
 
-Joshu said, "The oak tree in the garden."
+Joshu said, “The oak tree in the garden.“
 
  
 
@@ -1894,7 +1843,7 @@ Case 38 A Buffalo Passes the Window                           三十八　牛過
 
 五祖曰、譬如水牯牛過窓櫺、頭角四蹄都過了、因甚麼尾巴過不得。
 
-Goso said, "A buffalo passes by the window. His head, horns, and four legs all go past. But why can’t the tail pass too?"
+Goso said, “A buffalo passes by the window. His head, horns, and four legs all go past. But why can’t the tail pass too?“
 
  
 
@@ -1928,23 +1877,23 @@ Case 39 A Mistake in Speaking                三十九　雲門話墮
 
 雲門、因僧問、光明寂照遍河沙。
 
-A monk said to Unmon, "The brilliance of the Buddha silently illuminates the whole universe. . ."
+A monk said to Unmon, “The brilliance of the Buddha silently illuminates the whole universe. . .“
 
 一句未絶、門遽曰、豈不是張拙秀才語。
 
-But before the could finish the verse, Unmon said, "Aren’t those the words of Chõetsu the Genius?"
+But before the could finish the verse, Unmon said, “Aren’t those the words of Chõetsu the Genius?“
 
 僧云、是。
 
-"Yes, they are," answered the monk.
+“Yes, they are,“ answered the monk.
 
 門云、話墮也。
 
-"You have slipped up in your speaking," Unmon said.
+“You have slipped up in your speaking,“ Unmon said.
 
 後來、死心拈云、且道、那裏是者僧話墮處。
 
-Afterward, Shishin Zenji brought up the matter and said, "Tell me, at what point did the monk err in his speaking?"
+Afterward, Shishin Zenji brought up the matter and said, “Tell me, at what point did the monk err in his speaking?“
 
  
 
@@ -1986,11 +1935,11 @@ Hyakujo wanted to choose a master for Mount Tai-i, so he called together all the
 
 百丈遂拈淨瓶、置地上設問云、不得喚作淨瓶、汝喚作甚麼。
 
-Then he took a water bottle and stood it on the floor, and said, "You may not call this a water bottle. What do you call it?"
+Then he took a water bottle and stood it on the floor, and said, “You may not call this a water bottle. What do you call it?“
 
 首座乃云、不可喚作木□也。
 
-The head monk said, "It cannot be called a stump."
+The head monk said, “It cannot be called a stump.“
 
 百丈却問於山。
 
@@ -2002,7 +1951,7 @@ Isan tipped over the water bottle with his feet and went out.
 
 百丈笑云、第一座　輸却山子也。
 
-Hyakujo laughed and said, "The head monk loses."
+Hyakujo laughed and said, “The head monk loses.“
 
 因命之爲山。
 
@@ -2052,19 +2001,19 @@ The Second Patriarch stood in the snow.
 
 斷臂云、弟子心未安、乞師安心。
 
-He cut off his arm and presented it to Bodhidharma, crying, "My mind has no peace as yet! I beg you, master, please pacify my mind!"
+He cut off his arm and presented it to Bodhidharma, crying, “My mind has no peace as yet! I beg you, master, please pacify my mind!“
 
 磨云、將心來爲汝安。
 
-"Bring your mind here and I will pacify it for you," replied Bodhidharma.
+“Bring your mind here and I will pacify it for you,“ replied Bodhidharma.
 
 祖云、覓心了不可得。
 
-"I have searched for my mind, and I cannot take hold of it," said the Second Patriarch.
+“I have searched for my mind, and I cannot take hold of it,“ said the Second Patriarch.
 
 磨云、爲汝安心竟。
 
-"Now your mind is pacified," said Bodhidharma.
+“Now your mind is pacified,“ said Bodhidharma.
 
  
 
@@ -2114,11 +2063,11 @@ Only a girl remained, sitting in samadhi close to the Buddha’s throne.
 
 文殊乃白佛、云何女人得近佛坐而我不得。
 
-Manjusri asked Shakyamuni Buddha, "Why can the girl get near the Buddha’s throne, while I cannot?"
+Manjusri asked Shakyamuni Buddha, “Why can the girl get near the Buddha’s throne, while I cannot?“
 
 佛告文殊、汝但覺此女、令從三昧起、汝自問之。
 
-Shakyamuni Buddha said, "Bring her out of her samadhi and ask her yourself."
+Shakyamuni Buddha said, “Bring her out of her samadhi and ask her yourself.“
 
 文殊遶女人三□、鳴指一下、乃托至梵天盡其神力而不能出。
 
@@ -2128,7 +2077,7 @@ Manjusri walked around the girl three times, snapped his fingers once, took her 
 
 世尊云、假使百千文殊亦出此女人定不得。
 
-The World-honored One said, "Even a hundred thousand Manjusris cannot make her wake up.
+The World-honored One said, “Even a hundred thousand Manjusris cannot make her wake up.
 
 下方過一十二億河沙國土有罔明菩薩。
 
@@ -2136,7 +2085,7 @@ But down below, past twelve hundred million lands as innumerable as the sands of
 
 能出此女人定。
 
-He will be able to rouse her from her samadhi."
+He will be able to rouse her from her samadhi.“
 
 須臾罔明大士、從地湧出禮拜世尊。世尊敕罔明。
 
@@ -2190,7 +2139,7 @@ Case 43 Shuzan’s Shippei              四十三　首山竹篦
 
 首山和尚、拈竹篦示衆云、汝等諸人、若喚作竹篦則觸。
 
-Shuzan Osho held up his shippei [staff of office] before his disciples and said, "You monks! If you call this a shippei, you oppose its reality.
+Shuzan Osho held up his shippei [staff of office] before his disciples and said, “You monks! If you call this a shippei, you oppose its reality.
 
 不喚作竹篦則背。
 
@@ -2198,7 +2147,7 @@ If you do not call it a shippei, you ignore the fact.
 
 汝諸人、且道、喚作甚麼。
 
-Tell me, you monks, what will you call it?"
+Tell me, you monks, what will you call it?“
 
  
 
@@ -2240,11 +2189,11 @@ Case 44 Bashõ’s Staff                     四十四　芭蕉拄杖
 
 芭蕉和尚示衆云、你有拄杖子、我興你 拄杖子。
 
-Bashõ Osho said to his disciples, "If you have a staff, I will give you a staff.
+Bashõ Osho said to his disciples, “If you have a staff, I will give you a staff.
 
 你 無拄杖子、我奪你 拄杖子。
 
-If you have no staff, I will take it from you."
+If you have no staff, I will take it from you.“
 
  
 
@@ -2272,17 +2221,17 @@ If you call it a staff, you will enter hell like an arrow.
 
  
 
-Case 45 Hõen’s "Who Is He?"                  四十五　他是阿誰
+Case 45 Hõen’s “Who Is He?“                  四十五　他是阿誰
 
  
 
 東山演師祖曰、釋迦彌勒猶是他奴。
 
-Hõen of Tõzan said, "Even Shakya and Maitreya are servants of another.
+Hõen of Tõzan said, “Even Shakya and Maitreya are servants of another.
 
 且道、他是阿誰。
 
-I want to ask you, who is he?"
+I want to ask you, who is he?“
 
  
 
@@ -2290,7 +2239,7 @@ I want to ask you, who is he?"
 
 無門曰、若也見得他分曉、譬如十字街頭撞見親爺相似、更不須問別人道是與不是。
 
-If you can really see this "another" with perfect clarity, it is like encountering your own father at a crossroads. Why should you ask whether you recognize him or not?
+If you can really see this “another“ with perfect clarity, it is like encountering your own father at a crossroads. Why should you ask whether you recognize him or not?
 
  
 
@@ -2312,15 +2261,15 @@ Case 46 Proceed On from the Top of the Pole                          四十六�
 
 石霜和尚云、百尺竿頭、如何進歩。
 
-Sekisõ Osho asked, "How can you proceed on further from the top of a hundred-foot pole?"
+Sekisõ Osho asked, “How can you proceed on further from the top of a hundred-foot pole?“
 
 又古徳云、百尺竿頭坐底人、雖然得入未爲眞。
 
-Another eminent teacher of old said, "You, who sit on the top of a hundred-foot pole, although you have entered the Way you are not yet genuine.
+Another eminent teacher of old said, “You, who sit on the top of a hundred-foot pole, although you have entered the Way you are not yet genuine.
 
 百尺竿頭、須進歩十方世界現全身。
 
-Proceed on from the top of the pole, and you will show your whole body in the ten directions."
+Proceed on from the top of the pole, and you will show your whole body in the ten directions.“
 
  
 
@@ -2332,7 +2281,7 @@ If you go on further and turn your body about, no place is left where you are no
 
 然雖如是、且道、百尺竿頭、如何進歩。嗄。
 
-But even so, tell me, how will you go on further from the top of a hundred-foot pole? Eh?"
+But even so, tell me, how will you go on further from the top of a hundred-foot pole? Eh?“
 
  
 
@@ -2408,15 +2357,15 @@ Case 48 Kempõ’s One Road                      四十八　乾峰一路
 
 乾峰和尚、因僧問、十方薄伽梵、一路涅槃門。
 
-A monk asked Kempõ Osho, "It is written, ’Bhagavats in the ten directions. One straight road to Nirvana.’
+A monk asked Kempõ Osho, “It is written, ’Bhagavats in the ten directions. One straight road to Nirvana.’
 
 未審路頭在甚麼處。
 
-I still wonder where the road can be."
+I still wonder where the road can be.“
 
 峰拈起拄杖、劃一劃云、在者裏。
 
-Kempõ lifted his staff, drew a line, and said, "Here it is."
+Kempõ lifted his staff, drew a line, and said, “Here it is.“
 
 後僧請益雲門。
 
@@ -2424,11 +2373,11 @@ Later the monks asked the same question to Unmon,
 
 門拈起扇子云、扇子□跳上三　十三天、築著帝釋鼻孔。
 
-who held up his fan and said, "This fan jumps up to the thirty-third heaven and hits the nose of the deity Sakra Devanam Indra.
+who held up his fan and said, “This fan jumps up to the thirty-third heaven and hits the nose of the deity Sakra Devanam Indra.
 
 東海鯉魚、打一棒雨似盆傾。
 
-When you strike the carp of the eastern sea, the rain comes down in torrents."
+When you strike the carp of the eastern sea, the rain comes down in torrents.“
 
  
 
@@ -2500,11 +2449,11 @@ You pass the checkpoint, squaring your shoulders, without asking permission of t
 
 豈不見玄沙道、無門解脱之門、無意道人之意。
 
-Remember Gensha’s saying, "No-gate is the gate of emancipation; no-meaning is the meaning of the man of the Way."
+Remember Gensha’s saying, “No-gate is the gate of emancipation; no-meaning is the meaning of the man of the Way.“
 
 又白雲道、明明知道只是者箇、爲甚麼透不過。
 
-And Hakuun says, "Clearly you know how to talk of it, but why can’t you pass this simple, specific thing?"
+And Hakuun says, “Clearly you know how to talk of it, but why can’t you pass this simple, specific thing?“
 
  
 
